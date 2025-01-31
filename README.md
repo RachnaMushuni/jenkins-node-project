@@ -60,5 +60,3 @@ This project demonstrates the implementation of a Continuous Integration and Con
 
 ## Why This Project?
 This project aims to showcase the use of CI/CD practices using Jenkins and Docker. It automates the process of building, testing, and deploying applications, making it easier to manage and update software deployments in production environments. By using Docker containers, the application can be deployed consistently across various environments, ensuring that it works seamlessly across development, staging, and production.
-
-This project is highly relevant for DevOps roles and demonstrates the ability to work with modern DevOps tools and methodologies, making it a strong addition to your portfolio.
