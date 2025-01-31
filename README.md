@@ -49,9 +49,9 @@ This project demonstrates the implementation of a Continuous Integration and Con
    - Jenkins handles the automation of the entire process, ensuring that changes are automatically built and deployed.
 
 ## Screenshots:
-![Application Running on Jenkins]([link-to-screenshot.png](https://github.com/RachnaMushuni/jenkins-node-project/blob/master/Screenshot%20from%202025-02-01%2004-24-07.png))
+![Application Running on Jenkins](https://github.com/RachnaMushuni/jenkins-node-project/blob/master/Screenshot%20from%202025-02-01%2004-24-07.png)
 
-![Application Running on Server]([link-to-screenshot.png](https://github.com/RachnaMushuni/jenkins-node-project/blob/master/Screenshot%20from%202025-02-01%2004-24-07.png)](https://github.com/RachnaMushuni/jenkins-node-project/blob/master/Screenshot%20from%202025-02-01%2004-25-54.png))
+![Application Running on Server](https://github.com/RachnaMushuni/jenkins-node-project/blob/master/Screenshot%20from%202025-02-01%2004-25-54.png)
 
 ## Future Improvements:
 - **Add Automated Testing**: Integrate automated tests within the pipeline to ensure code quality.
