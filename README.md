@@ -8,32 +8,7 @@ This project demonstrates the implementation of a Continuous Integration and Con
 - **Node.js**: The backend application being containerized and deployed.
 - **Ubuntu**: Operating system used to run the application and Jenkins server.
 - **GitHub**: Version control and repository hosting platform for the project.
-- **Docker Compose** (optional if you plan to use): For defining and running multi-container Docker applications.
-
-## Project Setup Instructions:
-
-1. **Clone the Repository**:
-   - Open your terminal and clone this repository to your local machine:
-     ```bash
-     git clone https://github.com/YourUsername/jenkins-node-project.git
-     ```
-     Replace `YourUsername` with your actual GitHub username.
-
-2. **Install Docker and Jenkins**:
-   - Ensure Docker is installed on your machine:
-     - [Install Docker](https://docs.docker.com/get-docker/)
-   - Install Jenkins if it's not installed:
-     - [Install Jenkins](https://www.jenkins.io/doc/book/installing/)
-   
-3. **Jenkins Setup**:
-   - Set up Jenkins to build the Docker container for the Node.js application.
-   - Use the provided Jenkins pipeline script (Jenkinsfile) to configure the pipeline.
-
-4. **Run the Pipeline**:
-   - Once Jenkins is set up, run the pipeline to build the Docker image and deploy the container.
-
-5. **Access the Application**:
-   - The Node.js application will be accessible via `http://localhost:3000/` after the pipeline runs successfully.
+- **Docker Compose**: For defining and running multi-container Docker applications.
 
 ## How the Project Works:
 
