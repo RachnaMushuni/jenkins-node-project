@@ -28,10 +28,5 @@ This project demonstrates the implementation of a Continuous Integration and Con
 
 ![Application Running on Server](https://github.com/RachnaMushuni/jenkins-node-project/blob/master/Screenshot%20from%202025-02-01%2004-25-54.png)
 
-## Future Improvements:
-- **Add Automated Testing**: Integrate automated tests within the pipeline to ensure code quality.
-- **Cloud Deployment**: Set up deployment on cloud platforms like AWS, Azure, or GCP.
-- **Enhanced Monitoring**: Implement monitoring tools (like Prometheus) to monitor the deployed application in real-time.
-
 ## Why This Project?
 This project aims to showcase the use of CI/CD practices using Jenkins and Docker. It automates the process of building, testing, and deploying applications, making it easier to manage and update software deployments in production environments. By using Docker containers, the application can be deployed consistently across various environments, ensuring that it works seamlessly across development, staging, and production.
